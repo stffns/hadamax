@@ -16,5 +16,5 @@ from ._index import HadaMaxIndex
 from ._codebooks import get_codebook
 from ._rotation import rht, padded_dim
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ["HadaMaxIndex", "get_codebook", "rht", "padded_dim"]
